@@ -1,3 +1,12 @@
+# ═══════════════════════════════════════════════════════
+# Titanic Survival Analysis
+# Author: [Your Name]
+# Date: June 2026
+# Description: Exploratory data analysis of Titanic
+#              passenger survival rates
+# Tools: Python, Pandas, Matplotlib, Seaborn, SciPy
+# Dataset: Kaggle Titanic Competition
+# ═══════════════════════════════════════════════════════
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
