@@ -20,7 +20,7 @@ the demographic factors that most significantly influenced survival probability.
 ## Files
 - `titanic_analysis.py` — full analysis code
 - `train.csv` — dataset from Kaggle Titanic competition
-- `Titanic_Analysis_Report.docx` — written report with findings
+- `Titanic_Analysis_Report.pdf` — written report with findings
 
 ## How to Run
 1. Install dependencies: `pip install pandas matplotlib seaborn scipy`
