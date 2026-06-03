@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════
 # Titanic Survival Analysis
-# Author: [Your Name]
+# Author: Sy savane Usman
 # Date: June 2026
 # Description: Exploratory data analysis of Titanic
 #              passenger survival rates
